@@ -2,3 +2,8 @@ http://stackoverflow.com/questions/34007076/add-custom-size-fields-to-product-in
 
 arcade theme extra notes before checkout
 http://support.aarcadethemes.com/how-do-i-allow-customers-to-enter-product-notes-during-checkout-with-big-cartel/
+
+
+You can download any existing Big Cartel theme and use it locally with Dugway right here: https://github.com/bigcartel-themes
+https://github.com/bigcartel-themes/luna
+Just edit & rename the .json file to point to the website you are working on.
